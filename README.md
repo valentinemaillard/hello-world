@@ -21,4 +21,3 @@ In that file I'll practice what I learned at coding in my passed classes. I'll b
     <li>JaVale McGee</li>
     <li>Nick Young</li>
   </ul>   
-<span class="thick">I'm thick</span>
