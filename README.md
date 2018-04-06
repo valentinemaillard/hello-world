@@ -11,9 +11,10 @@ In that file I'll practice what I learned at coding in my passed classes. I'll b
   <p id='picture'>I actually got that picture from the wikipedia Golden state warriors page that you can find here:
     <a href='https://en.wikipedia.org/wiki/Golden_State_Warriors.com'> Golden State Warriors </a></p>
 <br>
-  Here the most important players:
+ <p> Here the most important players:
   <ul>
     <li> <a href='https://en.wikipedia.org/wiki/Stephen_Curry'>  Stephen Curry </a></li>
+    <img src='https://www.pinterest.com/pin/326511041718652880/'></p>
     <li>Kevin Durant</li>
     <li>Klay Thompson</li>
     <li>Draymond Green</li>
