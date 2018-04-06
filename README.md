@@ -14,7 +14,7 @@ In that file I'll practice what I learned at coding in my passed classes. I'll b
  <p> Here the most important players:
   <ul>
     <li> <a href='https://en.wikipedia.org/wiki/Stephen_Curry'>  Stephen Curry </a></li>
-    <img src='https://www.pinterest.com/pin/326511041718652880/'></p>
+    <img src='https://s-media-cache-ak0.pinimg.com/originals/86/b0/e7/86b0e71658d07ddce0753538b754a4c9.jpg'></p>
     <li>Kevin Durant</li>
     <li>Klay Thompson</li>
     <li>Draymond Green</li>
