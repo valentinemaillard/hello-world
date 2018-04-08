@@ -1,10 +1,9 @@
 <html>
   <head>
-    <body>
-<h1 style="color:blue;"> Golden State Warriors </h1>
+  <body>
+<h1> Golden State Warriors </h1>
+    <br>
 <p>
-Practice repository
-<br>
 In that file I'll practice what I learned at coding in my passed classes. I'll be talking about the <strong><a href='https://en.wikipedia.org/wiki/Golden_State_Warriors'> Golden State Warriors </a></strong>, adding website links and images.</p> 
   <p id='logo'><img src= 'https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png' 
               width='233' height='233'></img></p>
@@ -25,3 +24,6 @@ In that file I'll practice what I learned at coding in my passed classes. I'll b
     <li>Nick Young</li>
   </ul>   
 <a href='#logo'> Jump to Warriors logo </a>
+<p> The NBA playoffs are coming soon for the Warriors. It's gonna be rough with all those injuries for the past weeks.</p>
+  </body>
+  </html>
