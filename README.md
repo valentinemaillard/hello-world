@@ -1,8 +1,7 @@
 <html>
   <head>
   <body>
-<h1> Golden State Warriors </h1>
-    <br>
+<h1>Golden State Warriors</h1>
 <p>
 In that file I'll practice what I learned at coding in my passed classes. I'll be talking about the <strong><a href='https://en.wikipedia.org/wiki/Golden_State_Warriors'> Golden State Warriors </a></strong>, adding website links and images.</p> 
   <p id='logo'><img src= 'https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png' 
