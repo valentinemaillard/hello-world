@@ -23,6 +23,7 @@ In that file I'll practice what I learned at coding in my passed classes. I'll b
     <li>Nick Young</li>
   </ul>   
 <a href='#logo'> Jump to Warriors logo </a>
+<br>
 <p> The NBA playoffs are coming soon for the Warriors. It's gonna be rough with all those injuries for the past weeks.</p>
   </body>
   </html>
