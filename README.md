@@ -1,7 +1,7 @@
 <html>
   <head>
     <body>
-<h1> Golden State Warriors </h1>
+<h1 style="color:blue;"> Golden State Warriors </h1>
 <p>
 Practice repository
 <br>
