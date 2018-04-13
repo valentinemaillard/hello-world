@@ -1,7 +1,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>HTML experiment</title>
   </head>
   <body>
 <h1>Golden State Warriors</h1>
